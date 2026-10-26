@@ -92,6 +92,9 @@ DSA/
 ├── DynamicProgramming/
 │   └── Problems/
 │
+|___Sorting Algorithms
+|
+|
 └── README.md
 ```
 
